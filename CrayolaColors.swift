@@ -37,6 +37,7 @@ class CrayolaColors {
     
     
     //color name, for getting the name of the color that is being currently displayed on the screen
+    //For usage Details please see the readme file
     static var colorName:String = ""
     
     
