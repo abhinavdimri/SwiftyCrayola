@@ -49,7 +49,7 @@
 			isa = PBXGroup;
 			children = (
 				6D2391F71CF767C1003BD250 /* Crayola Colors */,
-				6DE86E2F1CF70F9300C48944 /* SwitfyCrayola */,
+				6DE86E2F1CF70F9300C48944 /* SwitfyCrayola Example */,
 				6DE86E2E1CF70F9300C48944 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -62,7 +62,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6DE86E2F1CF70F9300C48944 /* SwitfyCrayola */ = {
+		6DE86E2F1CF70F9300C48944 /* SwitfyCrayola Example */ = {
 			isa = PBXGroup;
 			children = (
 				6DE86E301CF70F9300C48944 /* AppDelegate.swift */,
@@ -72,6 +72,7 @@
 				6DE86E391CF70F9300C48944 /* LaunchScreen.storyboard */,
 				6DE86E3C1CF70F9300C48944 /* Info.plist */,
 			);
+			name = "SwitfyCrayola Example";
 			path = SwitfyCrayola;
 			sourceTree = "<group>";
 		};
